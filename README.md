@@ -19,6 +19,13 @@ It works as follows:
 
 7) This simulation model keeps on running till the population reaches either 0 or till 100K.
 
+## How to Run
+
+Please install the dependancies such as pandas.
+
+Run the 'population_simulator.py' file to start the simulation.
+
+
 ## Check the <B>screenshots</B> to see how the model will run and to see the graphs of population growth
 
 The population growth is exponential in both the cases that is with or without the natural disaster and infant mortality. 
