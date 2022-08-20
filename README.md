@@ -1,7 +1,7 @@
 # Population Simulator
 
 ## Overview
-This similation is about how the population of the city will increase from 50 to 100K with progressing years.
+This simulation is about how the population of the city will increase from 50 to 100K with progressing years.
 
 It works as follows:
 
@@ -21,7 +21,7 @@ It works as follows:
 
 ## How to Run
 
-Please install the dependancies such as pandas.
+Please install the dependencies such as pandas.
 
 Run the 'population_simulator.py' file to start the simulation.
 
