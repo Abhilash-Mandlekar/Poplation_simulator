@@ -14,7 +14,7 @@ class Person:
 #Enough food available for 50 people to servive initially
 class Food:
     def __init__(self):
-        self.available_food = 5
+        self.available_food = 50
 
 
 class Simulation:
@@ -100,7 +100,6 @@ class Simulation:
         
     def runYear(self):
         self.beginSim()
-        # update this value to 100000 later
 
         self.years = 0
         while len(self.list_per)>0 and len(self.list_per)<=100000:
