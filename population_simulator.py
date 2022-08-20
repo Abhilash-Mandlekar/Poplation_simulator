@@ -129,7 +129,8 @@ class Simulation:
                 print("Disaster year: ", self.years)
         
         df = pd.DataFrame(self.print_log, columns = ['Total Population', 'Food available', 'Current Year', 'Disaster year'])
-        df.to_csv('E:\population_simulator\Whole_log.csv', index = False)
+        #df.to_csv('E:\population_simulator\Whole_log.csv', index = False)
+        df.to_csv('Whole_log.csv', index = False)
         return 
 
 
